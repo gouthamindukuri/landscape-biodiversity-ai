@@ -1,7 +1,5 @@
 # AI for Landscape Ecology: Can We Predict Biodiversity from Satellite Imagery?
 
-## What This Is
-
 This is a technical demo I built while preparing my application for the SUSTAIN AI CDT, specifically for **Project A3137: "Tracking global conservation progress in agricultural landscapes with earth observation and AI"**.
 
 The core question: Can we use satellite imagery to predict biodiversity? And more specifically, can we link historical biodiversity field surveys with modern satellite data to train machine learning models?
