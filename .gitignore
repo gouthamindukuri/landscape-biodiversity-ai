@@ -210,3 +210,7 @@ __marimo__/
 tmp/
 Major-TOM/
 .python-version
+# Large data files
+data/major_tom/core_s2l1c_metadata.parquet
+data/predicts_2016/database.csv
+data/predicts_2022/database.csv
